@@ -14,4 +14,4 @@
 
 ### Output:
 Files will be stored as a copy with the
-new size appended to the name.
+new size appended to the filename.
