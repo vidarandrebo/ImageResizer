@@ -13,5 +13,4 @@
 ```python main.py --height <height> file.jpg```
 
 ### Output:
-Files will be stored as a copy with the
-new size appended to the filename.
+Files will be stored as a copy with the new size appended to the filename.
